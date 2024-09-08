@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # Project Title
 
 Task Manager : Maintanin your daily task.
@@ -9,6 +9,7 @@ Ensure that you have the following installed:
 
 - [Node.js](https://nodejs.org/) (version X.X.X)
 - [npm](https://www.npmjs.com/) (version X.X.X)
+```
 
 ## Getting Started
 
@@ -17,10 +18,10 @@ Follow these steps to set up the project locally.
 ### Backend Setup
 
 1. Navigate to the backend folder:
+
    ```bash
    cd backend
    ```
-````
 
 2. Install dependencies:
 
@@ -97,6 +98,10 @@ Ensure that you have the following environment variables set in both the fronten
 - For production, make sure to use secure environment variables and configure your deployment properly.
 
 ## License
+
+```
+
+```
 
 ```
 
